@@ -1,3 +1,9 @@
-p{
- background-color: blue;
+body{
+
+ background-color: rgb(53, 62, 145);
+}
+h1{
+   margin-top: 50% ;
+  margin-left: 40%;
+  color: black;   
 }
